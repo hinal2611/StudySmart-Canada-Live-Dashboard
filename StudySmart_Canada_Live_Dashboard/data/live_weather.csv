@@ -1,0 +1,16 @@
+City,Temperature,Feels_Like,Humidity,Pressure,Weather_Status,Wind_Speed,Country,Latitude,Longitude,Updated_At
+Toronto,8.23,6.03,78,1015,few clouds,3.6,CA,43.7001,-79.4163,2026-05-15 03:36:34
+Brampton,7.49,5.13,75,1015,few clouds,3.6,CA,43.6834,-79.7663,2026-05-15 03:36:34
+Vancouver,10.41,9.73,85,1017,overcast clouds,2.68,CA,49.2497,-123.1193,2026-05-15 03:36:34
+Calgary,8.9,6.59,39,1005,scattered clouds,4.12,CA,51.0501,-114.0853,2026-05-15 03:36:34
+Montreal,10.3,9.87,95,1010,overcast clouds,6.17,CA,45.5088,-73.5878,2026-05-15 03:36:34
+Ottawa,7.96,6.0,98,1012,scattered clouds,3.09,CA,45.4112,-75.6981,2026-05-15 03:36:34
+Edmonton,8.93,6.28,77,1004,overcast clouds,4.92,CA,53.5501,-113.4687,2026-05-15 03:36:34
+Winnipeg,17.34,16.41,49,991,broken clouds,11.83,CA,49.8844,-97.147,2026-05-15 03:36:34
+Halifax,10.95,10.37,87,1007,light rain,8.23,CA,44.6453,-63.5724,2026-05-15 03:36:35
+Mississauga,7.56,5.22,76,1015,few clouds,3.6,CA,43.5789,-79.6583,2026-05-15 03:36:35
+Surrey,9.96,9.56,87,1017,overcast clouds,1.54,CA,49.1064,-122.8251,2026-05-15 03:36:35
+Hamilton,8.22,7.07,77,1015,broken clouds,2.06,CA,43.2334,-79.9496,2026-05-15 03:36:35
+Quebec City,7.39,4.18,94,1012,broken clouds,5.36,CA,46.8123,-71.2145,2026-05-15 03:36:35
+Saskatoon,7.77,3.31,93,994,light intensity shower rain,9.77,CA,52.1168,-106.6345,2026-05-15 03:36:35
+Regina,10.0,5.76,81,995,broken clouds,12.35,CA,50.4501,-104.6178,2026-05-15 03:36:35

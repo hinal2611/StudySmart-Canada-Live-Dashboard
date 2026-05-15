@@ -1,0 +1,12 @@
+City,Province,Monthly_Rent,Transit_Cost,Grocery_Cost,Average_Wage,Safety_Score
+Toronto,ON,1200,156,350,17.50,68
+Brampton,ON,950,141,320,17.20,72
+Vancouver,BC,1300,107,370,18.00,70
+Calgary,AB,850,115,310,17.00,78
+Montreal,QC,750,97,300,16.50,76
+Ottawa,ON,900,128,330,17.30,80
+Edmonton,AB,780,100,290,16.80,79
+Winnipeg,MB,700,105,280,16.50,82
+Halifax,NS,850,82,310,16.20,80
+Mississauga,ON,1100,156,340,17.40,71
+Hamilton,ON,900,130,320,17.00,75
